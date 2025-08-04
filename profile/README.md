@@ -1,5 +1,5 @@
 ### Muster AI 💧
-A collaborative learning platform, empowering AI engineers through structured weekly learning and goal-setting.
+A collaborative learning space, empowering AI engineers through structured weekly learning and goal-setting.
 
 ### Core Functionality
 
